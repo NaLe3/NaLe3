@@ -17,7 +17,7 @@ My happy place? **Trying, testing, failing, succeeding... Overall, *doing***.
 
 ## 🚀 What I’m up to
 - **Building** full-stack apps
-- **Experimenting** with LLM integrations (because AI is eating the world).
+- **Experimenting** constantly
 - **Breaking & fixing** things daily (because that’s how we learn).
 
 ## 📫 Let’s connect!
