@@ -5,7 +5,7 @@
 I love **building things**—mostly with **Ruby on Rails**, but also dabbling in **Python APIs, LLM/AI integrations, Hotwire/Turbo/Stimulus**, and **React**.
 My happy place? **Trying, testing, failing, succeeding... Overall, *doing***.
 
-**From Paris**, with stints in **San Francisco**, **Barcelona**, and **Berlin**—now back in **Paris**, where I build apps by day and dream in code by night.
+**From Paris**, with stints in **San Francisco**, **Barcelona**, and **Berlin**—now back in **Paris**
 
 ## 🛠 My Toolbox
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
